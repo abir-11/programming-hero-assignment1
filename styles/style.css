@@ -16,8 +16,8 @@ body{
 }
 header{
     height: 698px ;
-    background-image: url("../Assets/Hero-bg.png");
-    background-repeat: repeat-x;
+    background-image: url("../ui/Assets/Hero-bg.png");
+    
 
 }
 .btn-primary{
@@ -39,6 +39,7 @@ header{
     color: #4E47FF;
     font-weight: 900;
     font-size: 34;
+    line-height: 150%;
 }
 .navbar{
     margin: 0px 150px;
@@ -197,14 +198,14 @@ main{
     border-radius:48px ;
     margin-top: 20px;
 }
-.webflow-button button{
+/* .webflow-button button{
      background-color:rgb(78,71,255,.1);
     color: #FFFFFF;
     padding: 12px 36px;
     gap: 10px;
     border-radius: 10px;
    border: none;
-}
+} */
 .webflow-heading{
     font-size: 50px;
     font-weight: bold;
