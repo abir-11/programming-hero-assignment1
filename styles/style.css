@@ -296,7 +296,7 @@ main{
 }
 .contact-list ul{
     display: flex;
-    padding: 5px;
+    
     /* margin: 0px 200px; */
     text-align: center;
     justify-content:center;
