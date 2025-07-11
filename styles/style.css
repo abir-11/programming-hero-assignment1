@@ -296,10 +296,12 @@ main{
 }
 .contact-list ul{
     display: flex;
-    padding: 20px 700px;
-    margin: 0px 200px;
+    padding: 5px;
+    /* margin: 0px 200px; */
     text-align: center;
-    justify-content: space-around;
+    justify-content:center;
+    gap: 30px;
+
 }
 .contact-list  a {
    text-decoration: none;
