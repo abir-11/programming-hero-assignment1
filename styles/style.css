@@ -12,6 +12,8 @@
 }
 body{
    background-color:#e6e8f3;
+ 
+   margin: 0px auto;
    
 }
 header{
@@ -198,14 +200,7 @@ main{
     border-radius:48px ;
     margin-top: 20px;
 }
-/* .webflow-button button{
-     background-color:rgb(78,71,255,.1);
-    color: #FFFFFF;
-    padding: 12px 36px;
-    gap: 10px;
-    border-radius: 10px;
-   border: none;
-} */
+
 .webflow-heading{
     font-size: 50px;
     font-weight: bold;
